@@ -1,1 +1,44 @@
 
+name: Update CAD Image Gallery
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "images/**"
+      - "scripts/**"
+      - ".github/workflows/update-gallery.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-gallery:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate image gallery
+        run: python scripts/update_gallery.py
+
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update CAD image gallery"
+            git push
+          else
+            echo "No gallery changes to commit."
+          fi
+
