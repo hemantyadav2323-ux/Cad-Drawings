@@ -1,54 +1,35 @@
-# AutoCAD Mechanical Design Portfolio
 
-**Hemant Yadav** | B.Tech Robotics & Automation  
-Medicaps University, Indore
+# CAD Drawings Portfolio
 
-Welcome to my CAD portfolio! This repository showcases my practice in mechanical component design, engineering drawings, and 3D modeling. These projects help me develop my understanding of geometry, dimensions, component design, and technical visualization using **AutoCAD**.
+**Robotics & Automation Engineering | CAD Design**
 
-## 🛠️ Tools & Skills
+Welcome to my CAD portfolio! This repository showcases my engineering drawings and CAD design work, documenting my learning and development in mechanical design.
 
-- **Software:** AutoCAD
-- **Mechanical Component Design**
-- **2D Engineering Drawings**
-- **Dimensioning & Annotation**
-- **Orthographic Projection**
-- **3D Model Visualization**
+## About This Repository
 
-## 📐 Projects
+- **Field:** Robotics & Automation Engineering
+- **Focus:** CAD modelling and engineering drawings
+- **Software:** AutoCAD / Fusion 360 (as applicable)
+- **Gallery:** Automatically generated from the `images/` directory
 
-### 1. Mechanical Mounting Plate
+## CAD Design Gallery
 
-A mechanical mounting plate designed with a central circular opening and four mounting holes.
+New supported images added to `images/` will appear in this gallery automatically after the GitHub Actions workflow runs.
 
-**Key features**
-- Geometric layout of the plate and holes
-- Dimensioned engineering drawing views
-- Practice in orthographic representation and mechanical drawing
+<!-- CAD-GALLERY:START -->
+_Gallery will be generated automatically when the workflow runs._
+<!-- CAD-GALLERY:END -->
 
-![Mechanical Mounting Plate](images/mounting-plate.png)
+## Repository Structure
 
-### 2. L-Shaped 3D Component
+- `images/` — CAD design previews
+- `.github/workflows/` — GitHub Actions automation
+- `scripts/` — Gallery generation script
 
-An L-shaped mechanical component created as part of my CAD design practice.
+## About Me
 
-**Key features**
-- L-shaped geometry and component representation
-- Practice in 3D visualization and mechanical part design
-- Focus on shape, proportions, and technical presentation
-
-![L-Shaped 3D Component](images/l-shaped-3d.png)
-
-## 🎯 Objective
-
-To strengthen my skills in CAD, mechanical design, engineering drawing, and manufacturing-oriented component modeling as part of my Robotics & Automation engineering journey.
-
-## 👨‍💻 About Me
-
-I am a B.Tech Robotics & Automation student interested in **mechanical design, industrial robotics, and manufacturing automation**. I am continuously improving my CAD and engineering skills through practical projects.
-
-- **LinkedIn:** [hemantyadav23](https://www.linkedin.com/in/hemantyadav23)
-- **GitHub:** [hemantyadav2323-ux](https://github.com/hemantyadav2323-ux)
+I am a Robotics & Automation Engineering student interested in CAD design, industrial automation, robotics, and mechanical engineering.
 
 ---
 
-*This repository documents my ongoing CAD learning and project development.*
+*This portfolio will continue to grow as I complete new CAD designs and engineering projects.*
