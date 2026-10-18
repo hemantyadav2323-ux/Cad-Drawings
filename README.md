@@ -29,10 +29,10 @@ A collection of my engineering drawings, CAD models, and design projects as I de
 
 <!-- Add your image Markdown below -->
 
-### 🔹 Design 01 — Your Design Name
+### 🔹 Design 01 — Mounting-plate
 
 <p align="center">
-  <img src="images/design-1.png" alt="CAD Design 1" width="80%">
+  <img src="images/mounting-plate.png" alt="CAD Design 1" width="80%">
 </p>
 
 *Add a short description of this design here.*
