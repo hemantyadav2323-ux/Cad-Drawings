@@ -29,40 +29,41 @@ A collection of my engineering drawings, CAD models, and design projects as I de
 
 <!-- Add your image Markdown below -->
 
-### 🔹 Design 01 — Mounting-plate
+### 🔹 Design 01 — PipeFlange
 
 <p align="center">
-  <img src="images/mounting-plate.png" alt="CAD Design 1" width="80%">
+  <img src="images/PipeFlange.png" alt="CAD Design 1" width="80%">
 </p>
 
 *Add a short description of this design here.*
 
 ---
 
-### 🔹 Design 02 — Your Design Name
+### 🔹 Design 02 — FlangePlate" 
+
+
 
 <p align="center">
-  <img src="images/design-2.png" alt="CAD Design 2" width="80%">
+  <img src="images/FlangePlate.png" alt="CAD Design 2" width="80%">
 </p>
 
 *Add a short description of this design here.*
 
 ---
 
-### 🔹 Design 03 — Your Design Name
-
+### 🔹 Design 03 — L-shaped-3d.
 <p align="center">
-  <img src="images/design-3.png" alt="CAD Design 3" width="80%">
+  <img src="images/l-shaped-3d.png" alt="CAD Design 3" width="80%">
 </p>
 
 *Add a short description of this design here.*
 
 ---
 
-### 🔹 Design 04 — Your Design Name
+### 🔹 Design 04 — mounting-plate
 
 <p align="center">
-  <img src="images/design-4.png" alt="CAD Design 4" width="80%">
+  <img src="images/mounting-plate.png" alt="CAD Design 4" width="80%">
 </p>
 
 *Add a short description of this design here.*
